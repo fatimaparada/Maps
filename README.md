@@ -1,0 +1,2 @@
+# Maps
+For maze searches
